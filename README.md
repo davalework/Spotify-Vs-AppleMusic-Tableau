@@ -20,7 +20,3 @@ This Tableau project dives deep into the numbers to compare two music streaming 
 * Anyone curious about the rivalry between Spotify and Apple Music.
 * Data visualisation enthusiasts who want to see Tableau used to tell a story.
 * People who appreciate a narrative that combines numbers, charts and context to reveal what’s happening beneath the surface.
-
-Dashboard preview
-
-The dashboard brings these findings to life with clean visuals and interactive controls. Use it to compare revenue trajectories, examine user growth, inspect regional performance and see how premium subscribers have skyrocketed over time.
